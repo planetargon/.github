@@ -1,6 +1,6 @@
 ## 🚀 Planet Argon
 
-We are Planet Argon: Helping companies with existing Ruby on Rails web applications to make them better and more maintainable.
+Hello, world! We are Planet Argon: Helping companies with existing Ruby on Rails web applications to make them better and more maintainable.
 
 Where to find us:
 
