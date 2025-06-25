@@ -6,6 +6,7 @@ Helping organizations with existing Ruby on Rails web applications to make them 
 * [💼 LinkedIn](https://www.linkedin.com/company/planet-argon)
 * [🦋Bluesky](https://bsky.app/profile/planetargon.com)
 * [🐦Twitter](https://twitter.com/planetargon)
+* [❤️ On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails. From the Rails Foundation, Hosted by Robby Russell.
 
 <h2>Resources for Rails App Maintenance & Upgrades</h2>
 
@@ -63,6 +64,7 @@ Helping organizations with existing Ruby on Rails web applications to make them 
 
 <h2>**📚 Helpful Resources**</h2>
 
-* 🎙️[Maintainable Podcast](https://maintainable.fm): Curious conversations on the art of software maintenance.
-* [📝 Planet Argon Blog:](https://blog.planetargon.com/blog) Regular articles on best practices, Rails tips, and case studies.
-* **📨**[Maintainable Rails.](https://maintainablerails.com/) Forever-free email course on handling challenges related to legacy code and technical debt.
+* ❤️ [On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails.
+* 🎙️ [Maintainable Podcast](https://maintainable.fm): Curious conversations on the art of software maintenance.
+* 📝 [Planet Argon Blog:](https://blog.planetargon.com/blog) Regular articles on best practices, Rails tips, and case studies.
+* 📨 [Maintainable Rails.](https://maintainablerails.com/) Forever-free email course on handling challenges related to legacy code and technical debt.
