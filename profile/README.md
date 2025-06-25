@@ -1,12 +1,12 @@
-<h2>**🚀 Planet Argon**</h2>
+<h2>🚀 Planet Argon</h2>
 
 Helping organizations with existing Ruby on Rails web applications to make them better and more maintainable.
 
-* [🌐 Website](https://www.planetargon.com/)
-* [💼 LinkedIn](https://www.linkedin.com/company/planet-argon)
-* [🦋Bluesky](https://bsky.app/profile/planetargon.com)
-* [🐦Twitter](https://twitter.com/planetargon)
-* [❤️ On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails. From the Rails Foundation, Hosted by Robby Russell.
+* 🌐 [Website](https://www.planetargon.com/)
+* 💼 [LinkedIn](https://www.linkedin.com/company/planet-argon)
+* 🦋 [Bluesky](https://bsky.app/profile/planetargon.com)
+* 🐦 [Twitter](https://twitter.com/planetargon)
+* ❤️ [On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails. From the Rails Foundation, Hosted by Robby Russell.
 
 <h2>Resources for Rails App Maintenance & Upgrades</h2>
 
@@ -62,7 +62,7 @@ Helping organizations with existing Ruby on Rails web applications to make them 
 * [Easy Task Management with Asana](https://blog.planetargon.com/blog/entries/easy-task-management-with-asana)
 * ["We Need This Done in a Hurry!" How to Prepare for a Rushed Project](https://blog.planetargon.com/blog/entries/we-need-this-done-in-a-hurry-how-to-prepare-for-a-rushed-project)
 
-<h2>**📚 Helpful Resources**</h2>
+<h2>📚 Helpful Resources</h2>
 
 * ❤️ [On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails.
 * 🎙️ [Maintainable Podcast](https://maintainable.fm): Curious conversations on the art of software maintenance.
