@@ -6,7 +6,6 @@ Helping organizations with existing Ruby on Rails web applications to make them 
 * 💼 [LinkedIn](https://www.linkedin.com/company/planet-argon)
 * 🦋 [Bluesky](https://bsky.app/profile/planetargon.com)
 * 🐦 [Twitter](https://twitter.com/planetargon)
-* ❤️ [On Rails Podcast](https://onrails.buzzsprout.com/): Real-world technical challenges and solutions, architectural decisions, and lessons learned while building with Rails. From the Rails Foundation, Hosted by Robby Russell.
 
 <h2>Resources for Rails App Maintenance & Upgrades</h2>
 
